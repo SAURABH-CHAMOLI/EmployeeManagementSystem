@@ -5,10 +5,12 @@ An employee task management web application that supports role-based login (admi
 Below are the default login credentials to access the application:
 
 Admin Login
+
 Email: admin@example.com
 Password: 123
 
 Employee Logins
+
 Employee 1:
 Email: aarav@example.com
 Password: 123
